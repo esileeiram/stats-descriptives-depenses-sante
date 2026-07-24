@@ -31,5 +31,5 @@ Outil utilisé : Excel
 La distribution est asymétrique à droite : la moyenne dépasse la médiane et l'application de la règle de Tukey identifie un unique outlier statistique les **États-Unis** (9 776,5 €), à plus de 3000 € du deuxième pays le plus dépensier (Suisse, 6 562,1 €).  
 
 ## Contenu du dépôt
-- `stats_descriptives_depenses_sante.xlsx` : fichier Excel complet (données, calculs, graphiques)
-- `stats_descriptives_depenses_sante.pdf` : en version pdf complet (données, calculs, graphiques)
+- `projet1_stats_descriptives_depenses_sante_ocde.xlsx` : fichier Excel complet (données, calculs, graphiques)
+- `projet1_stats_descriptives_depenses_sante_ocde.pdf` : en version pdf complet (données, calculs, graphiques)
