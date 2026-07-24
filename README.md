@@ -2,7 +2,7 @@
 projet de statistique descriptive univariée sur les dépenses de santé par habitant, pays OCDE
 
 ## Objectif
-Analyse univariée des dépenses de santé par habitant dans 38 pays de l'OCDE, afin de caractériser la distribution (tendance centrale, dispersion, forme, valeurs atypiques) d'une variable économique du secteur de la santé.
+Analyse univariée des dépenses de santé par habitant dans 38 pays de l'OCDE (2025) , afin de caractériser la distribution (tendance centrale, dispersion, forme, valeurs atypiques) d'une variable économique du secteur de la santé.
  
 ## Source des données
 OCDE, *Health expenditure and financing*, dépenses de santé par habitant (€ PPA), dernière année disponible.
@@ -28,7 +28,7 @@ Outil utilisé : Excel
 | Kurtosis (excess) | 2,18 |
 | Borne haute (Tukey) | 8 630,2 € |
  
-La distribution est asymétrique à droite : la moyenne dépasse la médiane, et l'application de la règle de Tukey identifie un unique outlier statistique, les **États-Unis** (9 776,5 €), à plus de 3000 € du deuxième pays le plus dépensier (Suisse, 6 562,1 €).  
+La distribution est asymétrique à droite : la moyenne dépasse la médiane et l'application de la règle de Tukey identifie un unique outlier statistique les **États-Unis** (9 776,5 €), à plus de 3000 € du deuxième pays le plus dépensier (Suisse, 6 562,1 €).  
 
 ## Contenu du dépôt
 - `stats_descriptives_depenses_sante.xlsx` : fichier Excel complet (données, calculs, graphiques)
