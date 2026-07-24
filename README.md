@@ -32,3 +32,4 @@ La distribution est asymétrique à droite : la moyenne dépasse la médiane et 
 
 ## Contenu du dépôt
 - `stats_descriptives_depenses_sante.xlsx` : fichier Excel complet (données, calculs, graphiques)
+- `stats_descriptives_depenses_sante.xlsx` : en version pdf complet (données, calculs, graphiques)
